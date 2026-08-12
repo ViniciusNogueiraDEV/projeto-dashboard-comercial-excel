@@ -82,7 +82,6 @@ O dashboard apresenta:
 
 ---
 
-
 ![Dashboard de Performance Comercial](Dashboard_comercial.png)
 
 ---
