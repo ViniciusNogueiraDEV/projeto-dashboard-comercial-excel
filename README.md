@@ -80,6 +80,8 @@ O dashboard apresenta:
 4. Faturamento por região
 5. Ranking de vendedores
 
+---
+
 
 ![Dashboard de Performance Comercial](Dashboard_comercial.png)
 
