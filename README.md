@@ -143,6 +143,7 @@ Com base nos insights encontrados, foram propostas as seguintes recomendações:
 
 O projeto foi desenvolvido seguindo as seguintes etapas:
 
+```text
 Base de dados
       ↓
 Preparação dos dados
