@@ -70,15 +70,15 @@ Os principais filtros disponíveis são:
 - Vendedor
 - Período
 
-### Visualizações
+### 📊 Visualizações
 
-O dashboard apresenta:
+O dashboard apresenta as seguintes visualizações:
 
-1. Evolução mensal do faturamento
-2. Faturamento por categoria
-3. Top 10 produtos por faturamento
-4. Faturamento por região
-5. Ranking de vendedores
+1. **Evolução mensal do faturamento** — permite acompanhar o comportamento das vendas ao longo do período.
+2. **Faturamento por categoria** — permite comparar o desempenho das diferentes categorias de produtos.
+3. **Top 10 produtos por faturamento** — apresenta os produtos que mais contribuíram para a receita.
+4. **Faturamento por região** — permite identificar as regiões com maior e menor participação no faturamento.
+5. **Ranking de vendedores por faturamento** — apresenta o desempenho dos vendedores e permite identificar os profissionais com maior contribuição para a receita.
 
 ---
 
